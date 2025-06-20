@@ -1,0 +1,15 @@
+{
+  "backend": {
+    "language": "csharp",
+    "framework": "aspnet",
+    "conventions": {
+      "naming": "PascalCase",
+      "testing": "nunit"
+    }
+  },
+  "frontend": {
+    "language": "javascript",
+    "framework": "react",
+    "tooling": "vite"
+  }
+}
